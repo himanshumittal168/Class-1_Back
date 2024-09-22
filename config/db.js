@@ -1,5 +1,5 @@
 const mongoose=require("mongoose");
-let url="mongodb+srv://himanshumittal168:OhNNAFyzbcIuvkZb@cluster0.samc3.mongodb.net/march_batch"
+let url="mongodb+srv://himanshumittal168:<dbpass>@cluster0.samc3.mongodb.net/march_batch"
 
 const dbconnect=()=>
 {
